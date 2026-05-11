@@ -38,13 +38,6 @@ Profissional com atuação em Sistemas Embarcados, Desenvolvimento de Firmware e
 #### **Infraestrutura & Ferramentas**
 ![Linux Embarcado](https://img.shields.io/badge/Linux_Embarcado-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
----
-### 📊 Estatísticas e Atividade
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=julioaprigio8&show_icons=true&theme=radical" alt="Estatísticas do Julio" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=julioaprigio8&layout=compact&theme=radical" alt="Top Linguagens" />
-</p>
----
 ### 📫 Como me encontrar
 - 💼 **LinkedIn:** [linkedin.com/in/juliocesarsilvaaprigio](https://www.linkedin.com/in/juliocesarsilvaaprigio)
 - 🌐 **Portfólio Pessoal:** [julioaprigio8.github.io](https://julioaprigio8.github.io)
