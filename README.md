@@ -48,6 +48,3 @@ Profissional com atuação em Sistemas Embarcados, Desenvolvimento de Firmware e
 ### 📫 Como me encontrar
 - 💼 **LinkedIn:** [linkedin.com/in/juliocesarsilvaaprigio](https://www.linkedin.com/in/juliocesarsilvaaprigio)
 - 🌐 **Portfólio Pessoal:** [julioaprigio8.github.io](https://julioaprigio8.github.io)
-
-- 💼 **LinkedIn:** [linkedin.com/in/juliocesarsilvaaprigio](https://www.linkedin.com/in/juliocesarsilvaaprigio)
-- 🌐 **Portfólio Pessoal:** [julioaprigio8.github.io](https://julioaprigio8.github.io)
