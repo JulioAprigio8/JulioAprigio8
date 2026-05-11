@@ -1,4 +1,4 @@
-# Olá! 👋 Sou Júlio César Silva Aprígio
+# Olá! Sou Júlio César Silva Aprígio
 
 ### Desenvolvedor de Sistemas Embarcados | Firmware C/C++ | Python | IoT | Linux Embarcado
 
