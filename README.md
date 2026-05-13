@@ -2,7 +2,7 @@
 
 ### Desenvolvedor de Sistemas Embarcados | Firmware C/C++ | Python | IoT | Linux Embarcado
 
-Profissional com atuação em Sistemas Embarcados, Desenvolvimento de Firmware e Software. Combino uma base sólida em eletrônica com programação em C/C++, Python e C#. Tenho experiência prática em integração hardware/software, microcontroladores (ESP32, STM32), IoT, testes automatizados e validação de dispositivos eletrônicos (HIL).
+Profissional com atuação em Sistemas Embarcados, Desenvolvimento de Firmware e Software. Combino uma base sólida em eletrônica com programação em C/C++, Python. Tenho experiência prática em integração hardware/software, microcontroladores (ESP32, STM32), IoT, testes automatizados e validação de dispositivos eletrônicos (HIL).
 
 ---
 
